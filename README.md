@@ -1,4 +1,4 @@
 # Number-Guessing-Game
 Game about guessing a number within limited tries.
 <br>
-Author - Archit Dash
+Author - Archit Dash (KIIT University)
